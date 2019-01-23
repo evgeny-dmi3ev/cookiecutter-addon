@@ -4,5 +4,5 @@
   "project_package_name": "{{ cookiecutter.project_slug.replace('_', '-') }}",
   "project_class": "{{ cookiecutter.project_name.replace(' ', '') }}",
   "project_short_description": "Addon description",
-  "version": "0.1.0",
+  "version": "0.1.0"
 }
